@@ -1,0 +1,16 @@
+Lisa Simpson	Lisa@yahoo.com	555-1234-5678
+Bart Simpson	Bart@yahoo.com	555-1245-7778
+Homer Simpson	Homer@yahoo.com	555-1398-9978
+Marge Simpson	Marge@yahoo.com	555-1134-598800
+
+ New Line 
+Ned Simpson	Ned@springfield.com	555-332-221
+
+ New Line 
+Ned Simpson	Ned@springfield.com	555-332-221
+
+ New Line 
+Ned Simpson	Ned@springfield.com	555-332-221
+
+ New Line 
+Ned Simpson	Ned@springfield.com	555-332-221
