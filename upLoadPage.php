@@ -12,11 +12,7 @@ if(empty($_FILES[$InputKey])) {
 }
 
 
-if(!in_array($_FILES[$InputKey]['type'], $AllowedTypes)){ 
 
-    die  ("File type not supported");
-
-}
 
 
 if($_FILES[$InputKey]["error"] > 0){ 

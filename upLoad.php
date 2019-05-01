@@ -16,7 +16,7 @@ and open the template in the editor.
             <input type="file" name="myfile">
             <input type="submit" value="Upload">
         </form>
-        
+        <a href="index.php">Guide</a>
         <?php
         // put your code her
         ?>
