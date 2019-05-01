@@ -4,7 +4,7 @@
 
 $InputKey = 'myfile';
 
-$AllowedTypes = ['text'];
+$AllowedTypes = ['csv'];
 
 if(empty($_FILES[$InputKey])) { 
     echo "No file uploaded";
